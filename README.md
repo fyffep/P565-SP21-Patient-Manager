@@ -3,7 +3,7 @@ View the website here: <a>http://vita-healthcare.herokuapp.com/</a>
 <p>Features</p>
       <ul>
         <p>Patients</p>
-        <ul">
+        <ul>
           <li>Can search and filter doctors</li>
           <li>Can view available appointment times</li>
           <li>Can optionally provide address to find doctors on Google Maps</li>
