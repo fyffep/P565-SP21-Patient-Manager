@@ -13,6 +13,7 @@ public class PatientManagerSpringApplication
 		return new BCryptPasswordEncoder();
 	}
 
+        This is a syntax error to test Jenkins.
 	public static void main(String[] args) {
 		SpringApplication.run(PatientManagerSpringApplication.class, args);
 	}
